@@ -1,0 +1,290 @@
+<resources>
+    <string name="app_name">Abbreviation</string>
+
+
+
+    <!-- Array for abbreviations (short forms only) -->
+    <string-array name="abbreviation_HeaderStringArray_List">
+        <item>A/D</item>
+        <item>AI</item>
+        <item>ALU</item>
+        <item>AMD</item>
+        <item>ASCII</item>
+        <item>BASIC</item>
+        <item>BIOS</item>
+        <item>CAD</item>
+        <item>CD</item>
+        <item>CLI</item>
+        <item>COBOL</item>
+        <item>CPU</item>
+        <item>CRT</item>
+        <item>DBMS</item>
+        <item>DDL</item>
+        <item>DMA</item>
+        <item>DVD</item>
+        <item>ENIAC</item>
+        <item>EPROM</item>
+        <item>FTP</item>
+        <item>GHz</item>
+        <item>GUI</item>
+        <item>HTML</item>
+        <item>HTTP</item>
+        <item>IBM</item>
+        <item>IP</item>
+        <item>ISDN</item>
+        <item>ISP</item>
+        <item>JPEG</item>
+        <item>KB</item>
+        <item>LCD</item>
+        <item>LED</item>
+        <item>MAN</item>
+        <item>MB</item>
+        <item>NIC</item>
+        <item>OCR</item>
+        <item>OS</item>
+        <item>OSI</item>
+        <item>PDF</item>
+        <item>PROM</item>
+        <item>RAM</item>
+        <item>ROM</item>
+        <item>SQL</item>
+        <item>USB</item>
+        <item>URL</item>
+        <item>VCR</item>
+        <item>WAN</item>
+        <item>WiMAX</item>
+        <item>ACM</item>
+        <item>ALGOL</item>
+        <item>ARPANET</item>
+        <item>BCD</item>
+        <item>CAD</item>
+        <item>CAE</item>
+        <item>CAN</item>
+        <item>CASE</item>
+        <item>CDC</item>
+        <item>CD-RW</item>
+        <item>CLI</item>
+        <item>DEC</item>
+        <item>DNS</item>
+        <item>EFM</item>
+        <item>EPROM</item>
+        <item>FAT</item>
+        <item>FSK</item>
+        <item>FTP</item>
+        <item>HTML</item>
+        <item>HTTP</item>
+        <item>IrDA</item>
+        <item>LAN</item>
+        <item>LCD</item>
+        <item>MIDI</item>
+        <item>MIPS</item>
+        <item>NIC</item>
+        <item>OCR</item>
+        <item>OS</item>
+        <item>PDF</item>
+        <item>RAM</item>
+        <item>ROM</item>
+        <item>SCSI</item>
+        <item>SIMM</item>
+        <item>SQL</item>
+        <item>TB</item>
+        <item>URL</item>
+        <item>VAN</item>
+        <item>VCR</item>
+        <item>VoIP</item>
+        <item>WAN</item>
+        <item>WiMAX</item>
+        <item>WLAN</item>
+        <item>WLL</item>
+        <item>WWW</item>
+        <item>XML</item>
+        <item>XHTML</item>
+        <item>JPEG</item>
+        <item>DSL</item>
+        <item>DNS</item>
+        <item>USB</item>
+    </string-array>
+
+
+    <string-array name="abbreviation_ChildStringArray_List">
+        <item>A/D: Analog to Digital - Analogue সংকেতকে ডিজিটাল সংকেতে রূপান্তর করা।</item>
+        <item>AI: Artificial Intelligence - মানুষের মত বুদ্ধিমত্তা প্রদর্শনকারী যন্ত্র।</item>
+        <item>ALU: Arithmetic Logic Unit - গাণিতিক ও যুক্তির অপারেশন সম্পাদনকারী ইউনিট।</item>
+        <item>AMD: Advanced Micro Devices - মাইক্রোপ্রসেসর তৈরির একটি কোম্পানি।</item>
+        <item>ASCII: American Standard Code for Information Interchange - তথ্য বিনিময়ের জন্য একটি কোড।</item>
+        <item>BASIC: Beginner\'s All-purpose Symbolic Instruction Code - প্রাথমিক কম্পিউটার প্রোগ্রামিং ভাষা।</item>
+        <item>BIOS: Basic Input/Output System - কম্পিউটার হার্ডওয়্যারের প্রাথমিক নিয়ন্ত্রণ ব্যবস্থা।</item>
+        <item>CAD: Computer-Aided Design - কম্পিউটারের মাধ্যমে ডিজাইন প্রক্রিয়া।</item>
+        <item>CD: Compact Disc - তথ্য সংরক্ষণের জন্য একটি প্লাস্টিক ডিস্ক।</item>
+        <item>CLI: Command Line Interface - কমান্ডের মাধ্যমে কম্পিউটারের সাথে যোগাযোগের পদ্ধতি।</item>
+        <item>COBOL: Common Business Oriented Language - ব্যবসায়িক উদ্দেশ্যে তৈরি একটি প্রোগ্রামিং ভাষা।</item>
+        <item>CPU: Central Processing Unit - কম্পিউটারের মূল প্রসেসিং ইউনিট।</item>
+        <item>CRT: Cathode Ray Tube - পুরানো টেলিভিশন ও মনিটরের টেকনোলজি।</item>
+        <item>DBMS: Database Management System - তথ্য সংরক্ষণ ও পরিচালনার জন্য একটি সফটওয়্যার।</item>
+        <item>DDL: Data Definition Language - ডেটাবেসে তথ্যের গঠন নির্ধারণের ভাষা।</item>
+        <item>DMA: Direct Memory Access - মেমরির সাথে সরাসরি যোগাযোগের ব্যবস্থা।</item>
+        <item>DVD: Digital Versatile Disc - উচ্চ ধারণক্ষমতার ডিজিটাল ডিস্ক।</item>
+        <item>ENIAC: Electronic Numerical Integrator and Computer - প্রথম সার্বজনীন ডিজিটাল কম্পিউটার।</item>
+        <item>EPROM: Erasable Programmable Read-Only Memory - পুনঃপ্রোগ্রামযোগ্য মেমরি।</item>
+        <item>FTP: File Transfer Protocol - ফাইল স্থানান্তরের জন্য একটি প্রোটোকল।</item>
+        <item>GHz: Gigahertz - ফ্রিকোয়েন্সি পরিমাপের একক।</item>
+        <item>GUI: Graphical User Interface - গ্রাফিক্যাল ইন্টারফেসের মাধ্যমে ব্যবহারকারীর সাথে যোগাযোগ।</item>
+        <item>HTML: HyperText Markup Language - ওয়েব পৃষ্ঠার নির্মাণের জন্য একটি মার্কআপ ভাষা।</item>
+        <item>HTTP: HyperText Transfer Protocol - ওয়েব পৃষ্ঠার ডেটা স্থানান্তরের জন্য প্রোটোকল।</item>
+        <item>IBM: International Business Machines - প্রযুক্তি ও কম্পিউটার সমাধানের একটি কোম্পানি।</item>
+        <item>IP: Internet Protocol - ইন্টারনেটে ডেটার স্থানান্তরের নিয়ম।</item>
+        <item>ISDN: Integrated Services Digital Network - ডিজিটাল টেলিফোন পরিষেবা।</item>
+        <item>ISP: Internet Service Provider - ইন্টারনেট পরিষেবা প্রদানকারী।</item>
+        <item>JPEG: Joint Photographic Experts Group - ছবি সংকোচনের জন্য একটি ফরম্যাট।</item>
+        <item>KB: Kilobyte - ডেটার পরিমাপের একক।</item>
+        <item>LCD: Liquid Crystal Display - তলিত ক্রিস্টাল ডিসপ্লে প্রযুক্তি।</item>
+        <item>LED: Light Emitting Diode - আলো নির্গত করার জন্য একটি ডায়োড।</item>
+        <item>MAN: Metropolitan Area Network - শহরের একটি নেটওয়ার্ক।</item>
+        <item>MB: Megabyte - ১,০২৪ কিলোবাইট।</item>
+        <item>NIC: Network Interface Card - নেটওয়ার্কে সংযোগের জন্য একটি কার্ড।</item>
+        <item>OCR: Optical Character Recognition - চিত্র থেকে পাঠ্য শনাক্তকরণ প্রযুক্তি।</item>
+        <item>OS: Operating System - কম্পিউটারের মৌলিক সফ্টওয়্যার।</item>
+        <item>OSI: Open Systems Interconnection - নেটওয়ার্কের জন্য একটি নীতিমালা।</item>
+        <item>PDF: Portable Document Format - ডকুমেন্টের একটি ফরম্যাট।</item>
+        <item>PROM: Programmable Read-Only Memory - প্রোগ্রাম করা যায় এমন রিড-অনলি মেমরি।</item>
+        <item>RAM: Random Access Memory - অস্থায়ী তথ্য সংরক্ষণের জন্য মেমরি।</item>
+        <item>ROM: Read-Only Memory - শুধুমাত্র পড়ার জন্য মেমরি।</item>
+        <item>SQL: Structured Query Language - ডেটাবেসের সাথে যোগাযোগের জন্য ভাষা।</item>
+        <item>USB: Universal Serial Bus - ডেটা স্থানান্তরের জন্য একটি সংযোগকারী।</item>
+        <item>URL: Uniform Resource Locator - ওয়েব পৃষ্ঠার ঠিকানা।</item>
+        <item>VCR: Video Cassette Recorder - ভিডিও ক্যাসেট রেকর্ডার।</item>
+        <item>WAN: Wide Area Network - বিস্তৃত এলাকার নেটওয়ার্ক।</item>
+        <item>WiMAX: Worldwide Interoperability for Microwave Access - মাইক্রোওয়েভের জন্য একটি সংযোগ প্রযুক্তি।</item>
+        <item>ACM: Association for Computing Machinery - কম্পিউটার প্রযুক্তির জন্য একটি পেশাদার সংগঠন।</item>
+        <item>ALGOL: Algorithmic Language - গাণিতিক ও তাত্ত্বিক ভাষা।</item>
+        <item>ARPANET: Advanced Research Projects Agency Network - প্রথম ইন্টারনেটের পূর্বপুরুষ।</item>
+        <item>BCD: Binary-Coded Decimal - বাইনারি কোডে দশমিক সংখ্যা।</item>
+        <item>CAD: Computer-Aided Design - ডিজাইন প্রক্রিয়ার জন্য কম্পিউটার প্রযুক্তি।</item>
+        <item>CAE: Computer-Aided Engineering - প্রকৌশল প্রক্রিয়ার জন্য কম্পিউটার প্রযুক্তি।</item>
+        <item>CAN: Controller Area Network - বিশেষায়িত নেটওয়ার্ক।</item>
+        <item>CASE: Computer-Aided Software Engineering - সফটওয়্যার প্রকৌশল প্রক্রিয়ার জন্য কম্পিউটার প্রযুক্তি।</item>
+        <item>CDC: Control Data Corporation - তথ্য বিশ্লেষণ কোম্পানি।</item>
+        <item>CD-RW: Compact Disc ReWritable - পুনরায় লেখারযোগ্য কম্প্যাক্ট ডিস্ক।</item>
+        <item>CLI: Command Line Interface - কমান্ড লাইনের মাধ্যমে ব্যবহারকারীর সাথে যোগাযোগ।</item>
+        <item>DEC: Digital Equipment Corporation - কম্পিউটার প্রযুক্তির একটি কোম্পানি।</item>
+        <item>DNS: Domain Name System - ডোমেইন নামের সিস্টেম।</item>
+        <item>EFM: Ethernet in the First Mile - ইথারনেট প্রযুক্তির প্রথম মাইল।</item>
+        <item>EPROM: Erasable Programmable Read-Only Memory - পুনঃপ্রোগ্রামযোগ্য রিড-অনলি মেমরি।</item>
+        <item>FAT: File Allocation Table - ফাইল সঞ্চয়ের জন্য টেবিল।</item>
+        <item>FSK: Frequency Shift Keying - সিগন্যালিং প্রযুক্তি।</item>
+        <item>FTP: File Transfer Protocol - ফাইল স্থানান্তরের জন্য প্রোটোকল।</item>
+        <item>HTML: HyperText Markup Language - ওয়েব পৃষ্ঠার নির্মাণের জন্য মার্কআপ ভাষা।</item>
+        <item>HTTP: HyperText Transfer Protocol - ওয়েব পৃষ্ঠার ডেটা স্থানান্তরের জন্য প্রোটোকল।</item>
+        <item>IrDA: Infrared Data Association - ইনফ্রারেড ডেটা ট্রান্সফারের জন্য স্ট্যান্ডার্ড।</item>
+        <item>LAN: Local Area Network - স্থানীয় অঞ্চলের নেটওয়ার্ক।</item>
+        <item>LCD: Liquid Crystal Display - তলিত ক্রিস্টাল ডিসপ্লে।</item>
+        <item>MIDI: Musical Instrument Digital Interface - সঙ্গীত যন্ত্রের জন্য ডিজিটাল ইন্টারফেস।</item>
+        <item>MIPS: Million Instructions Per Second - প্রতি সেকেন্ডে এক মিলিয়ন নির্দেশ।</item>
+        <item>NIC: Network Interface Card - নেটওয়ার্কের জন্য একটি কার্ড।</item>
+        <item>OCR: Optical Character Recognition - চিত্র থেকে পাঠ্য শনাক্তকরণ।</item>
+        <item>OS: Operating System - কম্পিউটারের মৌলিক সফ্টওয়্যার।</item>
+        <item>PDF: Portable Document Format - ডকুমেন্টের একটি ফরম্যাট।</item>
+        <item>RAM: Random Access Memory - অস্থায়ী তথ্য সংরক্ষণের জন্য মেমরি।</item>
+        <item>ROM: Read-Only Memory - শুধুমাত্র পড়ার জন্য মেমরি।</item>
+        <item>SCSI: Small Computer System Interface - ছোট কম্পিউটার সিস্টেম ইন্টারফেস।</item>
+        <item>SIMM: Single In-line Memory Module - একক ইনলাইন মেমরি মডিউল।</item>
+        <item>SQL: Structured Query Language - ডেটাবেসের সাথে যোগাযোগের জন্য ভাষা।</item>
+        <item>TB: Terabyte - ১,০২৪ গিগাবাইট।</item>
+        <item>URL: Uniform Resource Locator - ওয়েব পৃষ্ঠার ঠিকানা।</item>
+        <item>VAN: Value-Added Network - মান বৃদ্ধিকারী নেটওয়ার্ক।</item>
+        <item>VCR: Video Cassette Recorder - ভিডিও ক্যাসেট রেকর্ডার।</item>
+        <item>VoIP: Voice over Internet Protocol - ইন্টারনেটের মাধ্যমে ভয়েস যোগাযোগ।</item>
+        <item>WAN: Wide Area Network - বিস্তৃত এলাকার নেটওয়ার্ক।</item>
+        <item>WiMAX: Worldwide Interoperability for Microwave Access - মাইক্রোওয়েভের জন্য একটি প্রযুক্তি।</item>
+        <item>WLAN: Wireless Local Area Network - তারহীন স্থানীয় নেটওয়ার্ক।</item>
+        <item>WLL: Wireless Local Loop - তারহীন স্থানীয় লুপ।</item>
+        <item>WWW: World Wide Web - বিশ্বব্যাপী তথ্যের নেটওয়ার্ক।</item>
+        <item>XML: eXtensible Markup Language - ডেটা বিনিময়ের জন্য একটি মার্কআপ ভাষা।</item>
+        <item>XHTML: eXtensible Hypertext Markup Language - উন্নত মার্কআপ ভাষা।</item>
+        <item>JPEG: Joint Photographic Experts Group - ছবির জন্য সংকোচন ফরম্যাট।</item>
+        <item>DSL: Digital Subscriber Line - ডিজিটাল সাবস্ক্রাইবার লাইন।</item>
+        <item>DNS: Domain Name System - ডোমেইন নামের সিস্টেম।</item>
+        <item>USB: Universal Serial Bus - ডেটা স্থানান্তরের জন্য একটি সংযোগকারী।</item>
+    </string-array>
+
+
+    <!--&lt;!&ndash; Array for full forms with definitions &ndash;&gt;
+    <string-array name="abbreviation_ChildStringArray_List">
+        <item><![CDATA[<h1>Analog-to-Digital</h1><p>A device that converts analog signals into digital data.</p>]]></item>
+        <item><![CDATA[<h1>Artificial Intelligence</h1><p>The simulation of human intelligence by machines.</p>]]></item>
+        <item><![CDATA[<h1>Arithmetic Logic Unit</h1><p>A digital circuit used to perform arithmetic and logic operations.</p>]]></item>
+        <item><![CDATA[<h1>Advanced Micro Devices</h1><p>A company that develops computer processors and related technologies.</p>]]></item>
+        <item><![CDATA[<h1>American Standard Code for Information Interchange</h1><p>A character encoding standard for text data.</p>]]></item>
+        <item><![CDATA[<h1>Beginners All-purpose Symbolic Instruction Code</h1><p>A programming language designed for ease of use.</p>]]></item>
+        <item><![CDATA[<h1>Basic Input Output System</h1><p>Firmware that initializes hardware during startup.</p>]]></item>
+        <item><![CDATA[<h1>Computer Aided Design</h1><p>Software used for designing and drafting.</p>]]></item>
+        <item><![CDATA[<h1>Compact Disk</h1><p>A digital optical disc storage format for data and media.</p>]]></item>
+        <item><![CDATA[<h1>Command Line Interface</h1><p>A text-based interface to communicate with computers.</p>]]></item>
+        <item><![CDATA[<h1>Common Business Oriented Language</h1><p>A high-level programming language for business applications.</p>]]></item>
+        <item><![CDATA[<h1>Central Processing Unit</h1><p>The main component of a computer that processes instructions.</p>]]></item>
+        <item><![CDATA[<h1>Cathode Ray Tube</h1><p>A display device commonly used in old computer monitors and TVs.</p>]]></item>
+        <item><![CDATA[<h1>Data Base Management System</h1><p>Software for creating and managing databases.</p>]]></item>
+        <item><![CDATA[<h1>Data Definition Language</h1><p>A language for defining data structures in a database.</p>]]></item>
+        <item><![CDATA[<h1>Direct Memory Access</h1><p>A feature that allows hardware to access memory without CPU intervention.</p>]]></item>
+        <item><![CDATA[<h1>Digital Video Disk</h1><p>An optical disc storage format for digital video and data.</p>]]></item>
+        <item><![CDATA[<h1>Electronic Numerical Integrator And Calculator</h1><p>The first general-purpose electronic computer.</p>]]></item>
+        <item><![CDATA[<h1>Erasable Programmable Read-Only Memory</h1><p>A type of memory chip that can be reprogrammed.</p>]]></item>
+        <item><![CDATA[<h1>File Transfer Protocol</h1><p>A protocol for transferring files over a network.</p>]]></item>
+        <item><![CDATA[<h1>Giga Hertz</h1><p>A unit of frequency equal to one billion cycles per second.</p>]]></item>
+        <item><![CDATA[<h1>Graphical User Interface</h1><p>A user interface that includes graphical elements.</p>]]></item>
+        <item><![CDATA[<h1>HyperText Markup Language</h1><p>The standard language for creating web pages.</p>]]></item>
+        <item><![CDATA[<h1>HyperText Transport Protocol</h1><p>A protocol for transferring web pages over the internet.</p>]]></item>
+        <item><![CDATA[<h1>International Business Machine</h1><p>A multinational technology company.</p>]]></item>
+        <item><![CDATA[<h1>Internet Protocol</h1><p>A protocol for routing and addressing packets of data across networks.</p>]]></item>
+        <item><![CDATA[<h1>Integrated Services Digital Network</h1><p>A set of standards for transmitting voice and data.</p>]]></item>
+        <item><![CDATA[<h1>Internet Service Provider</h1><p>A company that provides access to the internet.</p>]]></item>
+        <item><![CDATA[<h1>Joint Photographic Experts Group</h1><p>A format for compressing image files.</p>]]></item>
+        <item><![CDATA[<h1>Kilo Bytes</h1><p>A unit of data equal to 1,024 bytes.</p>]]></item>
+        <item><![CDATA[<h1>Liquid Crystal Display</h1><p>A type of flat-panel display used in monitors and TVs.</p>]]></item>
+        <item><![CDATA[<h1>Light Emitting Diode</h1><p>A semiconductor device that emits light when current flows through it.</p>]]></item>
+        <item><![CDATA[<h1>Metropolitan Area Network</h1><p>A network that spans a city or large campus.</p>]]></item>
+        <item><![CDATA[<h1>Mega Bytes</h1><p>A unit of data equal to 1,024 kilobytes.</p>]]></item>
+        <item><![CDATA[<h1>Network Interface Card</h1><p>A hardware component that connects a computer to a network.</p>]]></item>
+        <item><![CDATA[<h1>Optical Character Recognition</h1><p>Technology to convert scanned images into text.</p>]]></item>
+        <item><![CDATA[<h1>Operating System</h1><p>Software that manages computer hardware and software resources.</p>]]></item>
+        <item><![CDATA[<h1>Open Systems Interconnection</h1><p>A conceptual framework for understanding network communications.</p>]]></item>
+        <item><![CDATA[<h1>Portable Document Format</h1><p>A file format for capturing and sending electronic documents in exactly the intended format.</p>]]></item>
+        <item><![CDATA[<h1>Programmable Read-Only Memory</h1><p>A type of ROM that can be modified using a special programmer.</p>]]></item>
+        <item><![CDATA[<h1>Random Access Memory</h1><p>A type of volatile memory that is fast and used for temporary data storage.</p>]]></item>
+        <item><![CDATA[<h1>Read-Only Memory</h1><p>A type of non-volatile memory used for permanent storage of data.</p>]]></item>
+        <item><![CDATA[<h1>Structured Query Language</h1><p>A standard language for accessing and manipulating databases.</p>]]></item>
+        <item><![CDATA[<h1>Universal Serial Bus</h1><p>A standard for connecting devices to a computer.</p>]]></item>
+        <item><![CDATA[<h1>Uniform Resource Locator</h1><p>The address of a resource on the internet.</p>]]></item>
+        <item><![CDATA[<h1>Video Cassette Recorder</h1><p>A device that records and plays video tapes.</p>]]></item>
+        <item><![CDATA[<h1>Wide Area Network</h1><p>A telecommunications network that extends over a large geographical area.</p>]]></item>
+        <item><![CDATA[<h1>Worldwide Interoperability for Microwave Access</h1><p>A wireless communication standard for broadband access.</p>]]></item>
+        <item><![CDATA[<h1>Association for Computing Machinery</h1><p>An international learned society for computing.</p>]]></item>
+        <item><![CDATA[<h1>Algorithmic Language</h1><p>A family of high-level programming languages.</p>]]></item>
+        <item><![CDATA[<h1>Advanced Research Projects Agency Network</h1><p>The first network to implement the protocol suite TCP/IP.</p>]]></item>
+        <item><![CDATA[<h1>Binary-Coded Decimal</h1><p>A class of binary encodings of decimal numbers.</p>]]></item>
+        <item><![CDATA[<h1>Computer Aided Manufacturing</h1><p>The use of software to control machine tools and related machinery.</p>]]></item>
+        <item><![CDATA[<h1>Computer Aided Engineering</h1><p>The use of computer software to aid in engineering analysis tasks.</p>]]></item>
+        <item><![CDATA[<h1>Controller Area Network</h1><p>A robust vehicle bus standard designed to facilitate communications.</p>]]></item>
+        <item><![CDATA[<h1>Computer Aided Software Engineering</h1><p>Tools and methods to automate software development.</p>]]></item>
+        <item><![CDATA[<h1>Cyclic Redundancy Check</h1><p>An error-detecting code used to detect accidental changes to raw data.</p>]]></item>
+        <item><![CDATA[<h1>Digital Signal Processor</h1><p>A specialized microprocessor for digital signal processing.</p>]]></item>
+        <item><![CDATA[<h1>Dynamic Host Configuration Protocol</h1><p>A network management protocol used to automate the process of configuring devices.</p>]]></item>
+        <item><![CDATA[<h1>External Interface Bus</h1><p>A computer bus used for communication between the computer and its peripheral devices.</p>]]></item>
+        <item><![CDATA[<h1>Full Duplex</h1><p>A communication mode in which data can be sent and received simultaneously.</p>]]></item>
+        <item><![CDATA[<h1>Information Technology</h1><p>The use of computers to store, retrieve, transmit, and manipulate data.</p>]]></item>
+        <item><![CDATA[<h1>Local Area Network</h1><p>A network that connects computers within a limited area.</p>]]></item>
+        <item><![CDATA[<h1>Model View Controller</h1><p>A software architectural pattern for implementing user interfaces.</p>]]></item>
+        <item><![CDATA[<h1>Network Attached Storage</h1><p>A file-level computer data storage server connected to a computer network.</p>]]></item>
+        <item><![CDATA[<h1>Object-Oriented Programming</h1><p>A programming paradigm based on the concept of "objects".</p>]]></item>
+        <item><![CDATA[<h1>Personal Digital Assistant</h1><p>A handheld device that combines computing, telephone/fax, and networking features.</p>]]></item>
+        <item><![CDATA[<h1>Public Key Infrastructure</h1><p>A framework for creating a secure method for exchanging information.</p>]]></item>
+        <item><![CDATA[<h1>Portable Network Graphics</h1><p>A raster graphics file format that supports lossless data compression.</p>]]></item>
+        <item><![CDATA[<h1>Routing Information Protocol</h1><p>A dynamic routing protocol used in local and wide area networks.</p>]]></item>
+        <item><![CDATA[<h1>Signal to Noise Ratio</h1><p>A measure of signal strength relative to background noise.</p>]]></item>
+        <item><![CDATA[<h1>Static Random Access Memory</h1><p>A type of RAM that holds data bits in its memory as long as power is being supplied.</p>]]></item>
+        <item><![CDATA[<h1>Transmission Control Protocol</h1><p>A fundamental protocol for communicating over the Internet.</p>]]></item>
+        <item><![CDATA[<h1>Virtual Private Network</h1><p>A secure network connection over the internet.</p>]]></item>
+        <item><![CDATA[<h1>Wireless Fidelity</h1><p>A term used to describe the technologies that allow devices to connect to the internet without wires.</p>]]></item>
+    </string-array>-->
+
+</resources>
